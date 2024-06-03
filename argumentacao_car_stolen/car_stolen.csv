@@ -1,0 +1,16 @@
+Brand,Age,Location,Insurance,Stolen
+Ford,3,Urban,Basic,No
+Toyota,2,Urban,Advanced,Yes
+Honda,1,Rural,Advanced,No
+Ford,5,Suburban,Advanced,No
+Honda,0,Urban,Basic,Yes
+Toyota,4,Suburban,Basic,No
+Ford,6,Rural,Basic,No
+Honda,3,Urban,Advanced,No
+Toyota,0,Rural,Advanced,Yes
+Ford,2,Suburban,Basic,No
+Honda,4,Suburban,Basic,No
+Toyota,5,Urban,Advanced,Yes
+Ford,1,Rural,Basic,No
+Toyota,6,Suburban,Advanced,No
+Honda,2,Urban,Basic,Yes
